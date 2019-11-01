@@ -12,5 +12,6 @@ void main()
 	{
 		i=0;
 	}
+	printf("try again!\r\n");
     
 }
