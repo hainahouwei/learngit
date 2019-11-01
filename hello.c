@@ -2,7 +2,11 @@
 
 void main()
 {
-	printf("hello git");
-	printf("today is a nice day!");
-	
+	int i=0;
+	if(i<10)
+	{
+	  printf("hello git");
+	  printf("today is a nice day!");
+	}
+    
 }
